@@ -11,7 +11,7 @@ import IconMe from '../app/components/common/tab/images/tabbar-icon-me.png';
 import IconMeHl from '../app/components/common/tab/images/tabbar-icon-me-hl.png';
 
 module.exports = {
-    "title": "web app demo",
+    "title": "随缘捐赠",
     "tabs": [
         {
             "index": 0,
